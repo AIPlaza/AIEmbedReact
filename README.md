@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise Embed React
+# Agentic Plaza Embed React
 
 React library to display flowise chatbot on your website
 
@@ -9,13 +9,13 @@ React library to display flowise chatbot on your website
 ## Install
 
 ```bash
-npm install flowise-embed flowise-embed-react
+npm install ai-plaza-embed@1.0.0 ai-embed-react
 ```
 
 or
 
 ```bash
-yarn add flowise-embed flowise-embed-react
+yarn add ai-plaza-embed@1.0.0 ai-embed-react
 ```
 
 ## Import
@@ -23,7 +23,7 @@ yarn add flowise-embed flowise-embed-react
 Full Page Chat
 
 ```tsx
-import { FullPageChat } from "flowise-embed-react";
+import { FullPageChat } from "ai-embed-react";
 
 const App = () => {
   return (
