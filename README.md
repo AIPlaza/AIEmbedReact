@@ -38,7 +38,7 @@ const App = () => {
 Popup Chat
 
 ```tsx
-import { BubbleChat } from "flowise-embed-react";
+import { BubbleChat } from "ai-embed-react";
 
 const App = () => {
   return (
