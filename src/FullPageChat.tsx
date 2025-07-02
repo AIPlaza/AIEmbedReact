@@ -24,7 +24,7 @@ export const FullPageChat = ({ style, className, ...assignableProps }: Props) =>
 
   useEffect(() => {
     ;(async () => {
-      await import('flowise-embed/dist/web.js')
+      await import('ai-plaza-embed@1.0.0/dist/web.js')
     })()
   }, [])
 
