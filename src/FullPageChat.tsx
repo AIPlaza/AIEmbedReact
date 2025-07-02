@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import type { BotProps } from 'flowise-embed'
+import type { BotProps } from 'ai-plaza-embed@1.0.0'
 
 type Props = BotProps & {
   style?: React.CSSProperties
