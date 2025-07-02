@@ -1,7 +1,7 @@
 {
   "name": "ai-embed-react",
   "version": "1.0.0",
-  "description": "React library to display flowise chatbot on your website",
+  "description": "React library to display agentic plaza chatbot on your website",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
